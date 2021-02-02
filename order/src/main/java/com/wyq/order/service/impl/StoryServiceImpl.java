@@ -2,7 +2,7 @@ package com.wyq.order.service.impl;
 
 import com.wyq.api.pojo.order.PO.Story;
 import com.wyq.api.pojo.user.PO.User;
-import com.wyq.common.control.Result;
+import com.wyq.common.system.Result;
 import com.wyq.common.servlet.BaseServiceImpl;
 import com.wyq.order.mapper.IStoryMapper;
 import com.wyq.order.service.FUserService;

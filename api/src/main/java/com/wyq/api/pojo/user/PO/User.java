@@ -21,4 +21,6 @@ public class User {
     private String nickName;
 
     private String mobile;
+
+    private String password;
 }

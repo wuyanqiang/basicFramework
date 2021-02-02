@@ -16,6 +16,7 @@
         <module>gateway</module>
         <module>order</module>
         <module>api</module>
+        <module>webview</module>
     </modules>
 
     <packaging>pom</packaging>

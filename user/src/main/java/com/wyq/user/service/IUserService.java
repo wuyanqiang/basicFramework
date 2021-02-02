@@ -1,6 +1,7 @@
 package com.wyq.user.service;
 
 import com.wyq.api.pojo.user.PO.User;
+import com.wyq.common.system.Result;
 import com.wyq.common.servlet.BaseService;
 
 /**
@@ -9,4 +10,6 @@ import com.wyq.common.servlet.BaseService;
  * @Description:
  */
 public interface IUserService  extends BaseService<User> {
+
+    public Result userLogin(String username, String password);
 }

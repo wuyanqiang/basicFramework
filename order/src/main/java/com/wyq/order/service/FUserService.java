@@ -1,7 +1,7 @@
 package com.wyq.order.service;
 
 import com.wyq.api.pojo.user.PO.User;
-import com.wyq.common.control.Result;
+import com.wyq.common.system.Result;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

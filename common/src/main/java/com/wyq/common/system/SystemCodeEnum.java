@@ -1,4 +1,4 @@
-package com.wyq.common.control;
+package com.wyq.common.system;
 
 /**
  * 系统响应错误代码枚举类

@@ -1,4 +1,4 @@
-package com.wyq.common.control;
+package com.wyq.common.system;
 
 import com.alibaba.fastjson.JSON;
 import lombok.experimental.Accessors;

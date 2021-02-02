@@ -1,4 +1,4 @@
-package com.wyq.common.control;
+package com.wyq.common.system;
 
 /**
  * 默认响应类，所有返回消息需要继承这个类

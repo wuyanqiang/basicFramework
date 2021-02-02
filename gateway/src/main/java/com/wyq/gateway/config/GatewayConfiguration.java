@@ -83,7 +83,7 @@ public class GatewayConfiguration {
     private void initGatewayRules() {
         Set<GatewayFlowRule> rules = new HashSet<>();
         rules.add(new GatewayFlowRule("user_route")
-                .setCount(3)        //限流阈值
+                .setCount(60)        //限流阈值
                 .setIntervalSec(60) //时间统计 s
         );
 //        rules.add(new GatewayFlowRule("order_route")
